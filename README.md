@@ -19,6 +19,6 @@ Using a for loop and the scipy stats library, I pulled in the data and found the
 ![boxplots](https://user-images.githubusercontent.com/74504885/122323680-17650700-ceed-11eb-8e9d-f29669728727.PNG)
 
 ### Correlation and Regression: Weight vs. Tumor Volume
-I calculated hte correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimin. 
+I calculated the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimin. 
 ![regression](https://user-images.githubusercontent.com/74504885/122324345-3e700880-ceee-11eb-91e4-f1544c090131.PNG)
 
